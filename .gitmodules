@@ -1,0 +1,6 @@
+[submodule "TodoFrontend"]
+	path = TodoFrontend
+	url = https://github.com/xdetre/TodoFrontend.git
+[submodule "TodoBackend"]
+	path = TodoBackend
+	url = https://github.com/xdetre/TodoBackend.git
